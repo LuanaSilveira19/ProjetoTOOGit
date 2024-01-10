@@ -1,0 +1,15 @@
+com\mycompany\revisao\Revisao.class
+br\edu\ifsul\bcc\too\questao1\model\Equipe.class
+br\edu\ifsul\bcc\too\questao1\model\MaoObra.class
+br\edu\ifsul\bcc\too\questao1\model\Pagamento.class
+br\edu\ifsul\bcc\too\questao1\model\Servico.class
+br\edu\ifsul\bcc\too\questao1\model\Funcionario.class
+br\edu\ifsul\bcc\too\questao1\model\Pessoa.class
+br\edu\ifsul\bcc\too\questao1\model\StatusServico.class
+br\edu\ifsul\bcc\too\questao1\model\Veiculo.class
+br\edu\ifsul\bcc\too\questao1\model\FormaPagamento.class
+br\edu\ifsul\bcc\too\questao2\Questao_2_3_4.class
+br\edu\ifsul\bcc\too\questao1\model\Cargo.class
+br\edu\ifsul\bcc\too\questao1\model\Peca.class
+br\edu\ifsul\bcc\too\questao1\model\Cliente.class
+br\edu\ifsul\bcc\too\questao1\model\Orcamento.class
